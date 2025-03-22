@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duy Repository</title>
+    <link rel="icon" type="image/x-icon" href="https://bvnsupport.github.io/assets/favicon.ico">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            color: #ff69b4;
+            margin-top: 50px;
+            font-size: 36px;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+        .container {
+            margin: 20px auto;
+            max-width: 600px;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            background-color: #ff69b4;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #ff1493;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>💕 Duy Repository 💕</h1>
+        <p>Kho lưu trữ cá nhân của Duy</p>
+        <div>
+            <a href="https://github.com/[tên_người_dùng]" class="button">GitHub</a>
+            <a href="#" class="button">Liên hệ</a>
+        </div>
+        <img src="https://bvnsupport.github.io/assets/icon.png" alt="Icon">
+    </div>
+</body>
+</html>
